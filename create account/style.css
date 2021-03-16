@@ -1,0 +1,233 @@
+.creationpagetitle{
+    /* font-size: 2em !important;
+    font-weight: 600 !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    color: goldenrod !important;
+    background-image: linear-gradient( to left, rgba(145, 15, 15, 0.973), rgb(44, 44, 42));
+}
+.creationpara{
+    background-color: rgba(245, 222, 179, 0.664) !important;
+    /* width: 50% !important; */
+    font-size: 1.5em;
+    color: black;
+    font-style: italic;
+    font-weight: 600;
+    text-align: center;
+    transition-duration: 0.5s;
+}
+.modal-title{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.creationpagetitless{
+    text-align: center;
+}
+.btn{
+    background-color: rgb(143,15,15);
+    color: white;
+    padding: 10px;
+}
+.btn:hover{
+    background-color: yellow;
+    color: black;
+}
+.modal-footer,.modal-header{
+    background-image: linear-gradient(to right, rgb(212, 128, 18), rgb(243, 250, 245));
+}
+.modal-body{
+    background-image: linear-gradient( rgba(145, 15, 15, 0.973), rgb(44, 44, 42));
+}
+.emails,.passwords,.form-check-label{
+    color: white;
+}
+.form-text {
+    color: yellow !important;
+}
+.modal-footer{
+    text-align: center !important;
+}
+/* @media screen and (max-width: 732px)
+{
+    .creationpara{
+        font-size: 1.4em;
+    }
+    .creationpagetitle{
+        font-size: 1em;
+    }
+}
+@media screen and (max-width: 695px)
+{
+    .creationpara{
+        font-size: 1.2em;
+    }
+    .creationpagetitle{
+        font-size: 1em;
+    }
+}
+@media screen and (max-width: 650px)
+{
+    .creationpara{
+        font-size: 1em;
+    }
+    .creationpagetitle{
+        font-size: 1em;
+    }
+}
+@media screen and (max-width: 615px)
+{
+    .creationpara{
+        font-size: 0.9em;
+    }
+    .creationpagetitle{
+        font-size: 0.8em;
+    }
+}
+@media screen and (max-width: 448px)
+{
+    .creationpara{
+        font-size: 1em;
+       
+    }
+}
+.body{
+    background-color:rgb(17, 16, 16); 
+}
+@media screen and (max-width: 448px)
+{
+    .cardtexts{
+        margin-top: 250px !important;
+       
+    }
+    .mycardtext{
+        box-shadow: 5px 5px 20px 5px rgba(22, 20, 20, 0.342);
+    }
+    .creationpagetitle{
+        box-shadow: 5px 5px 20px 5px rgba(22, 20, 20, 0.342);
+    }
+    
+}
+@media screen and (max-width: 517)
+{
+    .btn{
+        box-shadow: 5px 5px 20px 5px rgba(22, 20, 20, 0.342);
+       
+    }
+}
+
+@media screen and (max-width: 350px)
+{
+    .cardtexts{
+        margin-top: 230px !important;
+       
+    }
+    
+}
+@media screen and (max-width: 300px)
+{
+    .cardtexts{
+        margin-top: 210px !important;
+       
+    }
+    
+}
+@media screen and (max-width: 280px)
+{
+    .cardtexts{
+        margin-top: 180px !important;
+       
+    }
+    
+}
+@media screen and (max-width: 230px)
+{
+    .cardtexts{
+        margin-top: 150px !important;
+       
+    }
+    
+}
+@media screen and (max-width: 200px)
+{
+    .cardtexts{
+        margin-top: 120px !important;
+       
+    }
+    
+}
+@media screen and (max-width: 173px)
+{
+    .cardtexts{
+        margin-top: 90px !important;
+       
+    }
+    .creationpara{
+        font-size: 0.7em;
+    }
+    .creationpagetitle{
+        font-size: 0.7em;
+    }
+    
+}
+@media screen and (max-width: 155px)
+{
+    .cardtexts{
+        margin-top: 60px !important;
+       
+    }
+    .creationpara{
+        font-size: 0.7em;
+    }
+    .creationpagetitle{
+        font-size: 0.6em;
+    }
+    
+}
+@media screen and (max-width: 155px)
+{
+    .cardtexts{
+        margin-top: 30px !important;
+       
+    }
+    .creationpara{
+        font-size: 0.7em;
+    }
+    .creationpagetitle{
+        font-size: 0.5em;
+    }
+    
+} */
+.mycardtext{
+    padding: 5px;
+}
+
+.creationnimage{
+position: fixed !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
